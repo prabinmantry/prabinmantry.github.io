@@ -3,9 +3,10 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
- background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,0.769335492986257) 0%, rgba(127,139,134,0.5228368935464811) 43%, rgba(0,212,255,0.8197556610534839) 100%);
+ 
 body {
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,0.769335492986257) 0%, rgba(127,139,134,0.5228368935464811) 43%, rgba(0,212,255,0.8197556610534839) 100%);
   font-family: 'Arial', serif;
   padding-top: 54px;
   color: #868e96; }
